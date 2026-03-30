@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260330083021 +0800">
+<tv date="20260330085233 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6618,97 +6618,13 @@
 	<channel id="CHC高清电影">
 		<display-name lang="zh">CHC高清电影</display-name>
 	</channel>
-	<programme channel="CHC高清电影" start="20260330000000 +0800" stop="20260330010500 +0800">
-		<title lang="zh">亚当斯一家Ⅱ</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260330010500 +0800" stop="20260330040000 +0800">
-		<title lang="zh">长安道</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260330040000 +0800" stop="20260330042500 +0800">
-		<title lang="zh">长安道</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260330042500 +0800" stop="20260330060000 +0800">
-		<title lang="zh">长安道</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260330060000 +0800" stop="20260330075100 +0800">
-		<title lang="zh">警察故事2013</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260330075100 +0800" stop="20260330080000 +0800">
-		<title lang="zh">密战</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260330080000 +0800" stop="20260330093300 +0800">
-		<title lang="zh">密战</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260330093300 +0800" stop="20260330110700 +0800">
-		<title lang="zh">孔二皮进城记</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260330110700 +0800" stop="20260330123700 +0800">
-		<title lang="zh">聊斋新传之画皮人</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260330123700 +0800" stop="20260330144100 +0800">
-		<title lang="zh">丧心老友记</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260330144100 +0800" stop="20260330164000 +0800">
-		<title lang="zh">前任-再见前任</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260330164000 +0800" stop="20260330182000 +0800">
-		<title lang="zh">解码游戏</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260330182000 +0800" stop="20260330201000 +0800">
-		<title lang="zh">北京纽约</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260330201000 +0800" stop="20260330220000 +0800">
-		<title lang="zh">真相禁区</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260330220000 +0800" stop="20260330232600 +0800">
-		<title lang="zh">刑侦队</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260330232600 +0800" stop="20260331000000 +0800">
-		<title lang="zh">丛林大冒险</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260331000000 +0800" stop="20260331004600 +0800">
-		<title lang="zh">丛林大冒险</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260331004600 +0800" stop="20260331040000 +0800">
-		<title lang="zh">爱情神话</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260331040000 +0800" stop="20260331040600 +0800">
-		<title lang="zh">爱情神话</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260331040600 +0800" stop="20260331060000 +0800">
-		<title lang="zh">爱情神话</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260331060000 +0800" stop="20260331073200 +0800">
-		<title lang="zh">摩登澡堂</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260331073200 +0800" stop="20260331080000 +0800">
-		<title lang="zh">忍者神龟-破影而出</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260331080000 +0800" stop="20260331092000 +0800">
-		<title lang="zh">忍者神龟-破影而出</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260331092000 +0800" stop="20260331105600 +0800">
-		<title lang="zh">诱狼</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260331105600 +0800" stop="20260331123700 +0800">
-		<title lang="zh">丘奇先生</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260331123700 +0800" stop="20260331142900 +0800">
-		<title lang="zh">冰峰暴</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260331142900 +0800" stop="20260331164000 +0800">
-		<title lang="zh">刺杀小说家</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260331164000 +0800" stop="20260331180900 +0800">
-		<title lang="zh">黄大年</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260331180900 +0800" stop="20260331203100 +0800">
-		<title lang="zh">志愿军-雄兵出击</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260331203100 +0800" stop="20260331220000 +0800">
-		<title lang="zh">凿空者之西极神域</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260331220000 +0800" stop="20260401000000 +0800">
-		<title lang="zh">生无可恋的奥托</title>
-	</programme>
+	<channel id="LSTIME电影台">
+		<display-name lang="zh">LSTIME电影台</display-name>
+	</channel>
+	<channel id="东方电影">
+		<display-name lang="zh">东方电影</display-name>
+	</channel>
+	<channel id="云上电影院">
+		<display-name lang="zh">云上电影院</display-name>
+	</channel>
 </tv>

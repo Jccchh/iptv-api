@@ -13,9 +13,10 @@ https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u
-https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD.txt
 https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt
+
+# https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
