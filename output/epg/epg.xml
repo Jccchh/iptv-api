@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260403002347 +0800">
+<tv date="20260403082352 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -222,10 +222,10 @@
 	<programme channel="西藏卫视" start="20260403081300 +0800" stop="20260403083000 +0800">
 		<title lang="zh">跟我学藏语</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260403083000 +0800" stop="20260403090000 +0800">
+	<programme channel="西藏卫视" start="20260403083000 +0800" stop="20260403085600 +0800">
 		<title lang="zh">西藏新闻联播</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260403090000 +0800" stop="20260403100000 +0800">
+	<programme channel="西藏卫视" start="20260403085600 +0800" stop="20260403100000 +0800">
 		<title lang="zh">西游记续(4)</title>
 	</programme>
 	<programme channel="西藏卫视" start="20260403100000 +0800" stop="20260403105900 +0800">
