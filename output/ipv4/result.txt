@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-11 08:34:28,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-08-11 16:34:53,http://74.91.26.218:82/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -17,6 +17,5 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 📡卫视频道,#genre#
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-江西卫视,http://114.254.36.246:8888/rtp/239.3.1.123:8164
 
 🎬电影频道,#genre#
