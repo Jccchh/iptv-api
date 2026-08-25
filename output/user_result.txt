@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-08-25 16:29:06,http://t.061899.xyz/tl/tl.php?id=cctv1
+2026-08-26 00:29:35,http://74.91.26.218:82/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://t.061899.xyz/tl/tl.php?id=cctv1
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
@@ -11,6 +10,7 @@ CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8
 CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221226163/index.m3u8
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2,http://t.061899.xyz/tl/tl.php?id=cctv2
+CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV-2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
 CCTV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -21,6 +21,7 @@ CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
 CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
 CCTV-3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-4,http://t.061899.xyz/tl/tl.php?id=cctv4
+CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV-4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
@@ -31,9 +32,9 @@ CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
 CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
 CCTV-5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-5+,http://t.061899.xyz/tl/tl.php?id=cctv5p
-CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
+CCTV-6,http://t.061899.xyz/tl/tl.php?id=cctv6
 CCTV-6,https://live.eac-news.com/CCTV/streams/cctv6.m3u8
 CCTV-6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
@@ -47,12 +48,13 @@ CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221226143/index.m3u8
 CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221226137/index.m3u8
 CCTV-7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV-8,http://t.061899.xyz/tl/tl.php?id=cctv8
+CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV-8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
 CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
 CCTV-8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8
 CCTV-9,http://t.061899.xyz/tl/tl.php?id=cctv9
+CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 CCTV-9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
 CCTV-9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
@@ -80,8 +82,8 @@ CCTV-13,http://go.bkpcp.top/mg/cctv13
 CCTV-13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV-13,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
 CCTV-13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
-CCTV-14,http://t.061899.xyz/tl/tl.php?id=cctv14
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-14,http://t.061899.xyz/tl/tl.php?id=cctv14
 CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
 CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
@@ -93,8 +95,8 @@ CCTV-15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV-16,http://t.061899.xyz/tl/tl.php?id=cctv16
 CCTV-16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 CCTV-16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17
+CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
