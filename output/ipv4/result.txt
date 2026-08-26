@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2026-08-26 16:33:12,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-08-27 00:28:37,http://74.91.26.218:82/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
@@ -17,8 +18,5 @@ CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 📡卫视频道,#genre#
-东方卫视,http://114.254.34.238:8888/rtp/239.3.1.136:8032
-海南卫视,http://120.76.248.139/live/bfgd/4200000473.m3u8
-吉林卫视,http://114.254.34.238:8888/rtp/239.3.1.240:8172
 
 🎬电影频道,#genre#
