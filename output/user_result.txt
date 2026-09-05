@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2026-09-05 00:34:07,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-09-05 08:30:45,http://74.91.26.218:82/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
-CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
@@ -36,6 +35,7 @@ CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
 CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221226148/index.m3u8
 CCTV-6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-7,http://t.061899.xyz/tl/tl.php?id=cctv7
 CCTV-7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
 CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221226143/index.m3u8
@@ -170,7 +170,9 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 天津卫视,https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+新疆卫视,http://t.061899.xyz/tl/tl.php?id=xjws
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+云南卫视,http://t.061899.xyz/tl/tl.php?id=ynws
 云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
 云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
